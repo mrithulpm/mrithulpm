@@ -2,17 +2,26 @@
 
 <div align="center">
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-SOC%20%7C%20IR%20%7C%20Cloud-blue?style=for-the-badge&logo=shield&logoColor=white)
-![CEH Certified](https://img.shields.io/badge/Certification-CEH-brightgreen?style=for-the-badge&logo=certbot)
-![CISSP Prep](https://img.shields.io/badge/Preparation-CISSP%20Roadmap-success?style=for-the-badge)
-![Python Automation](https://img.shields.io/badge/Automation-Python%20%7C%20SIEM-yellow?style=for-the-badge)
-![IAM & PAM](https://img.shields.io/badge/Focus-IAM%20%7C%20PAM-orange?style=for-the-badge)
+![SOC Analyst](https://img.shields.io/badge/SOC%20Analyst-Ready-0A84FF?style=for-the-badge&logo=shield&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-Ready-FF5F57?style=for-the-badge&logo=alert&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-AWS-00C2FF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM & PAM](https://img.shields.io/badge/IAM%20%7C%20PAM-SailPoint%20%7C%20CyberArk-FFB000?style=for-the-badge&logo=keycdn&logoColor=white)
+![Python Automation](https://img.shields.io/badge/Python%20Automation-Security%20Scripts-7C5CFC?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=SOC+Operations+%7C+Incident+Response+%7C+Cloud+Security;Detection+Engineering+%7C+IAM%2FPAM+%7C+Python+Automation;Cybersecurity+Professional+%7C+Recruiter-Ready+Portfolio" alt="typing svg" />
+
+</div>
+
+<div align="center">
+
+![CEH](https://img.shields.io/badge/CEH-Certified-34D399?style=flat-square&logo=certbot&logoColor=white)
+![CISSP Prep](https://img.shields.io/badge/CISSP-Preparation%20In+Progress-8B5CF6?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-00D4FF?style=flat-square&logo=splunk&logoColor=white)
+![AWS Security](https://img.shields.io/badge/AWS-Security%20Focused-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -34,9 +43,10 @@ I am a cybersecurity professional with hands-on interest in SOC operations, inci
 
 <div align="center">
 
-![Security Mindset](https://img.shields.io/badge/Mindset-Security-First-brightgreen?style=flat-square)
-![Cloud Ready](https://img.shields.io/badge/Cloud-AWS%20Security-blue?style=flat-square)
-![IAM & PAM](https://img.shields.io/badge/IAM%2FPAM-SailPoint%20%7C%20CyberArk-orange?style=flat-square)
+![Security Mindset](https://img.shields.io/badge/Mindset-Security%20First-10B981?style=flat-square&logo=shield&logoColor=white)
+![Cloud Ready](https://img.shields.io/badge/Cloud-AWS%20Security-38BDF8?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM & PAM](https://img.shields.io/badge/IAM%2FPAM-SailPoint%20%7C%20CyberArk-F59E0B?style=flat-square&logo=keycdn&logoColor=white)
+![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-SIEM%20Use%20Cases-A78BFA?style=flat-square)
 
 </div>
 
@@ -114,6 +124,16 @@ I am a cybersecurity professional with hands-on interest in SOC operations, inci
 ---
 
 ## 🏅 Certifications
+
+<div align="center">
+
+![CEH Certified](https://img.shields.io/badge/CEH-Certified-34D399?style=for-the-badge&logo=certbot&logoColor=white)
+![CISSP Prep](https://img.shields.io/badge/CISSP-Preparation%20In%20Progress-8B5CF6?style=for-the-badge)
+![SOC / IR](https://img.shields.io/badge/SOC%20%7C%20IR-Operations%20Focused-0EA5E9?style=for-the-badge)
+![IAM / PAM](https://img.shields.io/badge/IAM%20%7C%20PAM-Identity%20Security-F59E0B?style=for-the-badge)
+
+</div>
+
 
 ![CEH](https://img.shields.io/badge/Certification-CEH-blue?style=flat-square&logo=certbot&logoColor=white)
 ![CISSP Prep](https://img.shields.io/badge/Preparation-CISSP%20Roadmap-success?style=flat-square)
