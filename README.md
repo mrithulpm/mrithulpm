@@ -100,7 +100,7 @@ Built with: Incident response best practices, lessons learned, communication tem
 
 ## Beyond Security
 
-- 🏍️ **Royal Enfield Interceptor Rider** — Open roads, wind in your face, and the freedom to think. Some of my best security ideas come on a ride.
+- 🏍️ **Royal Enfield Interceptor Motocyclist & Traveller** — Open roads, new places, and the freedom to think. Some of my best security ideas come on a ride.
 - ☕ **Coffee Enthusiast** — Good coffee, good conversations, and good problems to solve.
 - 📖 **Lifelong Learner** — Security changes every day. Standing still means falling behind. I read, I build, I break things, I learn.
 
@@ -118,18 +118,6 @@ I'm always interested in:
 - 💼 [LinkedIn](https://www.linkedin.com/in/mrithulpm) — Let's connect professionally
 - 📧 [Email](mailto:mrithulpm@gmail.com) — Direct message for opportunities or questions
 - 🐙 [GitHub](https://github.com/mrithulpm) — See my work and contribute
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrithulpm&show_icons=true&theme=dark&hide_border=true&bg_color=000000)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mrithulpm&theme=dark&hide_border=true&background=000000)
-
-</div>
 
 ---
 
