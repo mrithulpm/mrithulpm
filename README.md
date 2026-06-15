@@ -27,7 +27,7 @@
 
 ## 👋 Professional Summary
 
-Cybersecurity professional focused on SOC operations, incident response, cloud security, IAM/PAM, detection engineering, and Python-based security automation. I aim to build practical, recruiter-ready work that demonstrates security thinking, investigation skills, and real-world defense fundamentals.
+Cybersecurity professional focused on SOC operations, incident response, cloud security, IAM/PAM, detection engineering, and Python-based security automation. I build practical, recruiter-ready work that demonstrates security thinking, investigation skills, and real-world defense fundamentals.
 
 > Modern security demands visibility, automation, and measured response.
 
@@ -92,18 +92,6 @@ Cybersecurity professional focused on SOC operations, incident response, cloud s
 6. Python Log Analyzer for Security Events
 7. Vulnerability Management Tracker
 8. Security Automation Toolkit
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrithulpm&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrithulpm&layout=compact&theme=radical&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mrithulpm&style=flat-square&color=00E676)
-
-</div>
 
 ## 📫 Contact
 
