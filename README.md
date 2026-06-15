@@ -27,6 +27,13 @@
 
 ## 👋 Professional Summary
 
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/47553243?v=4" width="140" alt="Profile Avatar" />
+
+</div>
+
+
 Cybersecurity professional focused on SOC operations, incident response, cloud security, IAM/PAM, detection engineering, and Python-based security automation. I build practical, recruiter-ready work that demonstrates security thinking, investigation skills, and real-world defense fundamentals.
 
 > Modern security demands visibility, automation, and measured response.
