@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=SOC+Operations+%7C+Incident+Response+%7C+Cloud+Security;Detection+Engineering+%7C+IAM%2FPAM+%7C+Python+Automation;Cybersecurity+Professional+%7C+Recruiter-Ready+Portfolio" alt="typing svg" />
+
+</div>
+
 ## 👋 Professional Introduction
 
 I am a cybersecurity professional with hands-on interest in SOC operations, incident response, vulnerability management, Splunk SIEM, AWS security, IAM concepts, and Python-based security automation. I aim to build a strong and practical profile in detection engineering, cloud security, IAM/PAM, and modern defense operations for roles such as SOC Analyst, Security Engineer, Incident Response Specialist, and Cloud Security Engineer.
