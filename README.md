@@ -1,4 +1,4 @@
-# Hi, I'm Mrithul 👋
+# Hi, I'm Mritul PM 👋
 
 I defend systems, investigate incidents, and build security solutions that make a difference.
 
