@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=SOC+Operations+%7C+Incident+Response+%7C+Cloud+Security;Detection+Engineering+%7C+IAM%2FPAM+%7C+Python+Automation;Cybersecurity+Professional+%7C+Recruiter-Ready+Portfolio" alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;SOC+Operations+%7C+Incident+Response;Detection+Engineering+%7C+Cloud+Security;IAM%2FPAM+%7C+Python+Automation" alt="typing svg" />
 
 </div>
 
@@ -27,19 +27,29 @@
 
 ## 👋 Professional Introduction
 
-I am a cybersecurity professional with hands-on interest in SOC operations, incident response, vulnerability management, Splunk SIEM, AWS security, IAM concepts, and Python-based security automation. I aim to build a strong and practical profile in detection engineering, cloud security, IAM/PAM, and modern defense operations for roles such as SOC Analyst, Security Engineer, Incident Response Specialist, and Cloud Security Engineer.
+I build security-focused solutions and workflows around SOC operations, incident response, cloud security, IAM/PAM, and detection engineering. My goal is to create practical, measurable value through automation, investigation, and strong security fundamentals.
 
-> Security is not just defense — it is visibility, resilience, and disciplined response.
+> Modern security requires visibility, automation, and disciplined response.
 
-### What I bring
-- 🔍 Analytical thinking for security monitoring and investigation
-- ⚡ Automation mindset for repetitive security workflows
-- 🛡️ Security-first approach to systems, access, and cloud controls
-- 📈 Continuous learning in modern cyber defense domains
+### Core strengths
+- 🔍 Threat analysis and alert validation
+- ⚡ Security automation with Python
+- 🛡️ Cloud and identity security awareness
+- 📈 Continuous growth in SIEM, IAM, and defense operations
 
 ---
 
 ## 🧑‍💻 About Me
+
+<div align="center">
+
+![Security Mindset](https://img.shields.io/badge/Security%20Mindset-Defense%20First-10B981?style=flat-square)
+![Cloud Focus](https://img.shields.io/badge/Cloud%20Focus-AWS%20Security-38BDF8?style=flat-square)
+![Identity Security](https://img.shields.io/badge/Identity%20Security-IAM%20%7C%20PAM-F59E0B?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Python%20Security%20Tools-A78BFA?style=flat-square)
+
+</div>
+
 
 <div align="center">
 
@@ -77,6 +87,16 @@ I am a cybersecurity professional with hands-on interest in SOC operations, inci
 ---
 
 ## 🧰 Technical Skills
+
+<div align="center">
+
+![Security Operations](https://img.shields.io/badge/Domain-Security%20Operations-0EA5E9?style=flat-square)
+![Cloud Security](https://img.shields.io/badge/Domain-Cloud%20Security-38BDF8?style=flat-square)
+![IAM / PAM](https://img.shields.io/badge/Domain-IAM%20%2F%20PAM-F59E0B?style=flat-square)
+![Detection Engineering](https://img.shields.io/badge/Domain-Detection%20Engineering-A78BFA?style=flat-square)
+
+</div>
+
 
 ### Security Operations
 - SOC Monitoring
