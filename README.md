@@ -97,55 +97,11 @@ Here are the hands-on security projects I’m actively building and sharing:
 
 - Wazuh Crash Course – 2+ Hour Free Training
   https://lnkd.in/dQgmwpfR
-## Hi — I'm Mritul PM 👋
-
-Security engineer focused on detection engineering, cloud SOCs, and incident response. I build hands-on labs, detection content, and automation to make security operations faster and more effective.
-
----
-
-## Core Focus
-
-- Detection engineering (Splunk, Wazuh)
-- Cloud SOC (AWS logging, GuardDuty, CloudTrail)
-- Incident response & playbooks
-- Security automation (Python, IaC)
-- Threat hunting & YARA rules
-
----
-
-## Skills
-
-- Splunk SPL, Wazuh ruleset, YARA
-- AWS (IAM, VPC, CloudTrail, GuardDuty)
-- Linux & Windows forensics and logging
-- Python, Bash, automation, Terraform
-- SIEM architecture, FIM, EDR integrations
-
----
-
-## Featured Repositories & Labs
-
-Here are the hands-on security projects I maintain:
-
-- 🧪 [Wazuh SIEM Lab](https://github.com/mrithulpm/wazuh-lab) — multi-subnet monitoring lab with Wazuh, Windows/Linux endpoints, practical attack scenarios, and playbooks.
-- ☁️ [SOC in AWS](https://github.com/mrithulpm/SOC_IN_AWS) — AWS-native SOC architecture, detection examples, Lambda remediation scripts, and cost-optimized patterns.
-- 🔍 [Splunk-Detections](https://github.com/mrithulpm/Splunk-Detections) — Production-ready Splunk detection rules mapped to MITRE ATT&CK.
-- 🤖 [Security-Automation](https://github.com/mrithulpm/Security-Automation) — Python automation for log parsing, enrichment, and incident workflows.
-- 🧭 [Threat-Hunting](https://github.com/mrithulpm/Threat-Hunting) — Hunting queries, investigation playbooks, and hunting methodology.
-- 🔎 [YARA-Rules](https://github.com/mrithulpm/YARA-Rules) — Custom YARA rules for malware and suspicious file detection.
-- 📘 [SOC-Playbooks](https://github.com/mrithulpm/SOC-Playbooks) — Runbooks and incident response templates for SOC teams.
-
----
-
-## Wazuh Learning Resources I Use
-
-- Wazuh Crash Course – 2+ Hour Free Training
-  https://lnkd.in/dQgmwpfR
 - Wazuh Overview & Architecture
   https://lnkd.in/dpG6iYuQ
 - Wazuh All-in-One Lab
   https://lnkd.in/d4TbFJau
-- Install Wazuh on VirtualBox / Docker
+- Install Wazuh on VirtualBox
   https://lnkd.in/ddD65zu3
 - Correlation Rules in Wazuh
   https://lnkd.in/dHtXuXB5
@@ -154,27 +110,35 @@ Here are the hands-on security projects I maintain:
 
 ## What Excites Me
 
-- The moment of discovery: finding the signal in messy logs and surfacing real threats.
-- Automation that frees analysts to hunt.
-- Cloud security challenges and designing pragmatic SOCs.
-- Building reproducible labs that teach real-world detection and response.
+🔐 **The Moment of Discovery** — When you're hunting through logs and suddenly spot something that doesn't belong. That moment when a quirk in the data reveals an attacker's presence.
+
+🛠️ **Automation That Works** — Building a script that saves the team hours of manual work every week. Security operations running smoother because of something you built.
+
+☁️ **Cloud Security Complexity** — The challenge of securing infrastructure that's dynamic, distributed, and constantly changing. AWS keeps me sharp.
+
+🚨 **Incident Response** — The high-stakes moment where decision-making matters. Being part of a team that stops an attack in its tracks.
 
 ---
 
 ## Beyond Security
 
-- ☕ Coffee enthusiast
-- 📖 Lifelong learner
+- ☕ **Coffee Enthusiast** — Good coffee, good conversations, and good problems to solve.
+- 📖 **Lifelong Learner** — Security changes every day. Standing still means falling behind. I read, I build, I break things, I learn.
 
 ---
 
 ## Let's Connect
 
-I'm open to collaborations, mentoring, and security projects.
+I'm always interested in:
+- Talking about security challenges and how to solve them
+- Collaborating on security projects
+- Discussing detection engineering, incident response, or cloud security
+- Sharing knowledge with the security community
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mrithulpm)
-- 📧 [Email](mailto:mrithulpm@gmail.com)
-- 🐙 [GitHub](https://github.com/mrithulpm)
+**Reach out:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/mrithulpm) — Let's connect professionally
+- 📧 [Email](mailto:mrithulpm@gmail.com) — Direct message for opportunities or questions
+- 🐙 [GitHub](https://github.com/mrithulpm) — See my work and contribute
 
 ---
 
