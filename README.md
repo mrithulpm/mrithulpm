@@ -100,7 +100,6 @@ Built with: Incident response best practices, lessons learned, communication tem
 
 ## Beyond Security
 
-- 🏍️ **Royal Enfield Interceptor Motocyclist & Traveller** — Open roads, new places, and the freedom to think. Some of my best security ideas come on a ride.
 - ☕ **Coffee Enthusiast** — Good coffee, good conversations, and good problems to solve.
 - 📖 **Lifelong Learner** — Security changes every day. Standing still means falling behind. I read, I build, I break things, I learn.
 
