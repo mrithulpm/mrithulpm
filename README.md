@@ -31,7 +31,7 @@ Cybersecurity professional focused on SOC operations, incident response, cloud s
 
 > Modern security demands visibility, automation, and measured response.
 
-## �� What I Bring
+## 🧭 What I Bring
 
 <table>
   <tr>
