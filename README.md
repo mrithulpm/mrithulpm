@@ -165,9 +165,9 @@ cybersecurity-portfolio/
 
 Connect for collaboration, opportunities, or security discussions:
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com)
-- Email: your.email@example.com
-- Portfolio: [Add your portfolio website](https://yourportfolio.com)
+- LinkedIn: [mrithulpm](https://www.linkedin.com/in/mrithulpm)
+- Email: mrithulpm@gmail.com
+- Portfolio: [mrithulpm.github.io](https://mrithulpm.github.io)
 
 ---
 
