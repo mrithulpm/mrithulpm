@@ -139,55 +139,41 @@ Cybersecurity professional with hands-on experience in SOC operations, incident 
 
 ## 🚀 Featured Projects
 
-### 1. SOC Alert Triage Dashboard
-- Automated alert classification and routing
-- Splunk dashboard for daily triage workflows
-- Reduced mean time to respond (MTTR) by optimizing alert queues
+### 1. AWS-SOC-Lab
+- Hands-on AWS security lab environment
+- Integration with Splunk for centralized logging
+- Real-world SOC scenarios and incident response workflows
+- CloudTrail, GuardDuty, and SecurityHub configurations
 
-### 2. Splunk Detection Rule Library
-- Comprehensive rule collection covering MITRE ATT&CK tactics
+### 2. Splunk-Detections
+- Production-ready detection rules covering MITRE ATT&CK tactics
 - False positive tuning and optimization
-- Production-ready SPL queries for common attack patterns
+- SPL queries for common attack patterns
+- Rule documentation and best practices
 
-### 3. AWS Security Checklist & Automation
-- Infrastructure-as-code security validation
-- Python automation for compliance verification
-- AWS IAM policy analysis and hardening recommendations
+### 3. Security-Automation
+- Collection of Python security automation scripts
+- SIEM integration and orchestration
+- Log parsing and correlation tools
+- API-driven security workflows
 
-### 4. IAM Risk Assessment Toolkit
-- Access review automation
-- Privilege escalation detection
-- SailPoint integration for identity governance workflows
-
-### 5. Incident Response Playbook Repository
-- Documented IR processes and runbooks
-- Response workflows for common security incidents
-- Escalation and communication templates
-
-### 6. Python Log Analyzer for Security Events
-- Multi-source log parsing and correlation
+### 4. Threat-Hunting
+- Threat hunting queries and playbooks
+- Splunk search optimization techniques
 - Anomaly detection algorithms
-- CSV export and visualization support
+- Investigation frameworks and methodologies
 
-### 7. Vulnerability Management Tracker
-- Automated vulnerability reporting
-- Risk scoring and prioritization
-- Remediation status tracking
+### 5. YARA-Rules
+- Custom YARA rules for malware detection
+- Malicious file signatures and patterns
+- Integration with security tools
+- Rule testing and validation frameworks
 
-### 8. Threat Intelligence Enrichment Script
-- IP reputation lookups
-- Domain analysis and malware checks
-- Splunk KV store integration
-
-### 9. PAM Access Review Automation
-- Automated privileged access audits
-- CyberArk API integration
-- Compliance reporting
-
-### 10. Security Automation Toolkit
-- Collection of reusable Python security scripts
-- SIEM integration helpers
-- API security tools for modern infrastructure
+### 6. SOC-Playbooks
+- Documented incident response playbooks
+- SOC operational procedures and workflows
+- Escalation and communication templates
+- Security runbooks and checklists
 
 ---
 
@@ -250,12 +236,12 @@ Cybersecurity professional with hands-on experience in SOC operations, incident 
 
 ## 🔗 Featured Repositories
 
-- **soc-alert-triage-dashboard** — Splunk dashboard and automation framework
-- **splunk-detection-rules** — Production-ready SIEM detection rule library
-- **aws-security-hardening** — AWS security best practices and automation
-- **python-security-tools** — Reusable security automation scripts
-- **iam-access-reviewer** — Identity and access management audit tools
-- **threat-detection-engineering** — MITRE ATT&CK-aligned detection rules
+- **AWS-SOC-Lab** — Comprehensive AWS security lab with Splunk integration
+- **Splunk-Detections** — Production-ready SIEM detection rules and queries
+- **Security-Automation** — Reusable security automation and orchestration scripts
+- **Threat-Hunting** — Threat hunting playbooks and advanced search techniques
+- **YARA-Rules** — Custom YARA rules for malware and threat detection
+- **SOC-Playbooks** — SOC operational procedures and incident response workflows
 
 ---
 
