@@ -86,6 +86,28 @@ Built with: Incident response best practices, lessons learned, communication tem
 
 ---
 
+## Featured Repositories & Labs
+
+Here are the hands-on security projects I’m actively building and sharing:
+
+- 🧪 [Wazuh SIEM Lab](https://github.com/mrithulpm/wazuh-lab) — multi-subnet monitoring lab with Wazuh, Windows/Linux endpoints, and security testing scenarios.
+- ☁️ [SOC in AWS](https://github.com/mrithulpm/SOC_IN_AWS) — AWS-native SOC architecture, detection, incident response, and cloud security practices.
+
+### Wazuh learning resources I use
+
+- Wazuh Crash Course – 2+ Hour Free Training
+  https://lnkd.in/dQgmwpfR
+- Wazuh Overview & Architecture
+  https://lnkd.in/dpG6iYuQ
+- Wazuh All-in-One Lab
+  https://lnkd.in/d4TbFJau
+- Install Wazuh on VirtualBox
+  https://lnkd.in/ddD65zu3
+- Correlation Rules in Wazuh
+  https://lnkd.in/dHtXuXB5
+
+---
+
 ## What Excites Me
 
 🔐 **The Moment of Discovery** — When you're hunting through logs and suddenly spot something that doesn't belong. That moment when a quirk in the data reveals an attacker's presence.
