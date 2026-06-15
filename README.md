@@ -12,13 +12,27 @@
 
 ## 👋 Professional Introduction
 
-I am a cybersecurity professional with experience in SOC operations, incident response, vulnerability management, Splunk SIEM, AWS security, IAM concepts, and Python-based security automation. My goal is to build a strong foundation in detection engineering, cloud security, IAM/PAM, and threat analysis for roles such as SOC Analyst, Security Engineer, Incident Response, and Cloud Security.
+I am a cybersecurity professional with hands-on interest in SOC operations, incident response, vulnerability management, Splunk SIEM, AWS security, IAM concepts, and Python-based security automation. I aim to build a strong and practical profile in detection engineering, cloud security, IAM/PAM, and modern defense operations for roles such as SOC Analyst, Security Engineer, Incident Response Specialist, and Cloud Security Engineer.
 
 > Security is not just defense — it is visibility, resilience, and disciplined response.
+
+### What I bring
+- 🔍 Analytical thinking for security monitoring and investigation
+- ⚡ Automation mindset for repetitive security workflows
+- 🛡️ Security-first approach to systems, access, and cloud controls
+- 📈 Continuous learning in modern cyber defense domains
 
 ---
 
 ## 🧑‍💻 About Me
+
+<div align="center">
+
+![Security Mindset](https://img.shields.io/badge/Mindset-Security-First-brightgreen?style=flat-square)
+![Cloud Ready](https://img.shields.io/badge/Cloud-AWS%20Security-blue?style=flat-square)
+![IAM & PAM](https://img.shields.io/badge/IAM%2FPAM-SailPoint%20%7C%20CyberArk-orange?style=flat-square)
+
+</div>
 
 - 🔍 Focused on SOC operations, detection engineering, and threat analysis
 - 🚨 Strong interest in incident response and security monitoring workflows
@@ -150,6 +164,13 @@ cybersecurity-portfolio/
 ---
 
 ## 📊 GitHub Statistics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mrithulpm&style=flat-square&color=00E676)
+
+</div>
+
 
 <div align="center">
 
