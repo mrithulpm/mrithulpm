@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Cybersecurity+Professional;SOC+Operations+%7C+Incident+Response;Cloud+Security+%7C+IAM%2FPAM;Detection+Engineering+%7C+Python+Automation" alt="typing svg" />
+
+</div>
+
+<div align="center">
+
 ![SOC Analyst](https://img.shields.io/badge/SOC%20Analyst-Ready-0A84FF?style=for-the-badge&logo=shield&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-Ready-FF5F57?style=for-the-badge&logo=alert&logoColor=white)
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-AWS-00C2FF?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -12,159 +18,71 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;SOC+Operations+%7C+Incident+Response;Detection+Engineering+%7C+Cloud+Security;IAM%2FPAM+%7C+Python+Automation" alt="typing svg" />
-
-</div>
-
-<div align="center">
-
 ![CEH](https://img.shields.io/badge/CEH-Certified-34D399?style=flat-square&logo=certbot&logoColor=white)
-![CISSP Prep](https://img.shields.io/badge/CISSP-Preparation%20In+Progress-8B5CF6?style=flat-square)
+![CISSP Prep](https://img.shields.io/badge/CISSP-Preparation%20In%20Progress-8B5CF6?style=flat-square)
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-00D4FF?style=flat-square&logo=splunk&logoColor=white)
 ![AWS Security](https://img.shields.io/badge/AWS-Security%20Focused-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
-## 👋 Professional Introduction
+## 👋 Professional Summary
 
-I build security-focused solutions and workflows around SOC operations, incident response, cloud security, IAM/PAM, and detection engineering. My goal is to create practical, measurable value through automation, investigation, and strong security fundamentals.
+Cybersecurity professional focused on SOC operations, incident response, cloud security, IAM/PAM, detection engineering, and Python-based security automation. I aim to build practical, recruiter-ready work that demonstrates security thinking, investigation skills, and real-world defense fundamentals.
 
-> Modern security requires visibility, automation, and disciplined response.
+> Modern security demands visibility, automation, and measured response.
 
-### Core strengths
-- 🔍 Threat analysis and alert validation
-- ⚡ Security automation with Python
-- 🛡️ Cloud and identity security awareness
-- 📈 Continuous growth in SIEM, IAM, and defense operations
+## �� What I Bring
 
----
+<table>
+  <tr>
+    <td align="center"><strong>🔍 SOC Ops</strong><br/>Alert triage, monitoring, investigation</td>
+    <td align="center"><strong>🚨 Incident Response</strong><br/>Response workflows and analysis</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>☁️ Cloud Security</strong><br/>AWS security fundamentals</td>
+    <td align="center"><strong>🔐 IAM / PAM</strong><br/>Identity and privileged access concepts</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🧠 Detection Engineering</strong><br/>SIEM logic and threat use cases</td>
+    <td align="center"><strong>⚡ Python Automation</strong><br/>Security scripts and tooling</td>
+  </tr>
+</table>
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-<div align="center">
+- Cybersecurity professional with strong interest in SOC operations and modern defense workflows
+- Hands-on focus on incident response, vulnerability management, and security monitoring
+- Building practical skills in Splunk SIEM, AWS security, IAM/PAM, and detection engineering
+- Learning SailPoint and CyberArk while strengthening Python automation for security tasks
+- CEH certified and preparing for CISSP
 
-![Security Mindset](https://img.shields.io/badge/Security%20Mindset-Defense%20First-10B981?style=flat-square)
-![Cloud Focus](https://img.shields.io/badge/Cloud%20Focus-AWS%20Security-38BDF8?style=flat-square)
-![Identity Security](https://img.shields.io/badge/Identity%20Security-IAM%20%7C%20PAM-F59E0B?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Python%20Security%20Tools-A78BFA?style=flat-square)
+## 🎯 Current Learning
 
-</div>
-
-
-<div align="center">
-
-![Security Mindset](https://img.shields.io/badge/Mindset-Security%20First-10B981?style=flat-square&logo=shield&logoColor=white)
-![Cloud Ready](https://img.shields.io/badge/Cloud-AWS%20Security-38BDF8?style=flat-square&logo=amazonaws&logoColor=white)
-![IAM & PAM](https://img.shields.io/badge/IAM%2FPAM-SailPoint%20%7C%20CyberArk-F59E0B?style=flat-square&logo=keycdn&logoColor=white)
-![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-SIEM%20Use%20Cases-A78BFA?style=flat-square)
-
-</div>
-
-- 🔍 Focused on SOC operations, detection engineering, and threat analysis
-- 🚨 Strong interest in incident response and security monitoring workflows
-- 🛡️ Exposure to vulnerability management and security hygiene practices
-- ☁️ AWS security concepts and cloud-focused defense strategies
-- 🔐 Learning IAM, PAM, SailPoint, and CyberArk
-- 🧠 Building Python automation for security operations, log analysis, and reporting
-- 📜 CEH certified and preparing for CISSP
-
----
-
-## 🎯 Current Learning & Certifications
-
-### Certifications
-- CEH Certified
-- CISSP Preparation in progress
-
-### Currently Learning
 - SailPoint Identity Governance
 - CyberArk PAM fundamentals
-- Detection Engineering best practices
-- AWS Security hardening and IAM controls
-- Splunk SIEM use cases and alert tuning
-- Python automation for security operations
+- Detection engineering and SIEM tuning
+- AWS security hardening and cloud defense
+- Python automation for log analysis and reporting
 
----
+## 🛠️ Skills
 
-## 🧰 Technical Skills
-
-<div align="center">
-
-![Security Operations](https://img.shields.io/badge/Domain-Security%20Operations-0EA5E9?style=flat-square)
-![Cloud Security](https://img.shields.io/badge/Domain-Cloud%20Security-38BDF8?style=flat-square)
-![IAM / PAM](https://img.shields.io/badge/Domain-IAM%20%2F%20PAM-F59E0B?style=flat-square)
-![Detection Engineering](https://img.shields.io/badge/Domain-Detection%20Engineering-A78BFA?style=flat-square)
-
-</div>
-
-
-### Security Operations
-- SOC Monitoring
-- Incident Response
-- Security Alert Triage
-- Threat Analysis
-- Vulnerability Management
-- Splunk SIEM
-- Security Event Review
-
-### Cloud Security
-- AWS Security Fundamentals
-- IAM in AWS
-- Cloud Security Best Practices
-- Secure Config Review
-- Identity and Access Controls
-
-### IAM / PAM
-- IAM Concepts
-- RBAC / ABAC Fundamentals
-- Privileged Access Management
-- SailPoint learning path
-- CyberArk learning path
-
-### Detection Engineering
-- Detection Logic
-- SIEM Rule Design
-- Alert Tuning
-- MITRE ATT&CK Mapping
-- Threat Detection Use Cases
-
-### Programming
-- Python
-- Bash / Shell Scripting
-- Automation Scripts
-- Log Parsing
-- Security Tooling
-
-### Operating Systems
-- Linux
-- Windows
-- macOS
-- Security-focused system administration basics
-
----
+| Category | Focus Areas |
+|---|---|
+| Security Operations | SOC monitoring, alert triage, incident response, vulnerability management |
+| Cloud Security | AWS security, secure configuration, cloud defense basics |
+| IAM / PAM | Identity concepts, RBAC, privileged access, SailPoint, CyberArk |
+| Detection Engineering | SIEM logic, detection use cases, MITRE ATT&CK alignment |
+| Programming | Python, shell scripting, automation, log parsing |
+| Operating Systems | Linux, Windows, macOS |
 
 ## 🏅 Certifications
 
-<div align="center">
-
-![CEH Certified](https://img.shields.io/badge/CEH-Certified-34D399?style=for-the-badge&logo=certbot&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-Certified-34D399?style=for-the-badge&logo=certbot&logoColor=white)
 ![CISSP Prep](https://img.shields.io/badge/CISSP-Preparation%20In%20Progress-8B5CF6?style=for-the-badge)
-![SOC / IR](https://img.shields.io/badge/SOC%20%7C%20IR-Operations%20Focused-0EA5E9?style=for-the-badge)
-![IAM / PAM](https://img.shields.io/badge/IAM%20%7C%20PAM-Identity%20Security-F59E0B?style=for-the-badge)
-
-</div>
-
-
-![CEH](https://img.shields.io/badge/Certification-CEH-blue?style=flat-square&logo=certbot&logoColor=white)
-![CISSP Prep](https://img.shields.io/badge/Preparation-CISSP%20Roadmap-success?style=flat-square)
-![IAM & PAM](https://img.shields.io/badge/Focus-IAM%20%7C%20PAM-orange?style=flat-square)
-![Cloud Security](https://img.shields.io/badge/Focus-AWS%20Security-yellow?style=flat-square)
-
----
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-00D4FF?style=for-the-badge&logo=splunk&logoColor=white)
+![AWS Security](https://img.shields.io/badge/AWS-Security%20Focused-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🚀 Featured Projects
-
-Recommended portfolio projects to create and showcase:
 
 1. SOC Alert Triage Dashboard
 2. Splunk Detection Rule Library
@@ -173,50 +91,9 @@ Recommended portfolio projects to create and showcase:
 5. Incident Response Playbook Repository
 6. Python Log Analyzer for Security Events
 7. Vulnerability Management Tracker
-8. Threat Intelligence Enrichment Script
-9. PAM Access Review Automation
-10. Security Automation Toolkit
+8. Security Automation Toolkit
 
-### Repository Structure Recommendation
-
-```text
-cybersecurity-portfolio/
-├── docs/
-│   ├── incident-response/
-│   ├── detection-engineering/
-│   └── iam-pam/
-├── scripts/
-│   ├── python/
-│   └── automation/
-├── labs/
-│   ├── splunk/
-│   ├── aws/
-│   └── iam/
-├── reports/
-│   ├── vulnerability-reports/
-│   └── security-analysis/
-└── README.md
-```
-
-### Pinned Repository Recommendations
-
-- `soc-alert-triage-dashboard`
-- `splunk-detection-rules`
-- `aws-security-checklist`
-- `python-security-automation`
-- `incident-response-playbook`
-- `iam-risk-assessment-toolkit`
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mrithulpm&style=flat-square&color=00E676)
-
-</div>
-
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -224,13 +101,11 @@ cybersecurity-portfolio/
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrithulpm&layout=compact&theme=radical&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mrithulpm&style=flat-square&color=00E676)
+
 </div>
 
----
-
 ## 📫 Contact
-
-Connect for collaboration, opportunities, or security discussions:
 
 - LinkedIn: [mrithulpm](https://www.linkedin.com/in/mrithulpm)
 - Email: mrithulpm@gmail.com
@@ -238,20 +113,8 @@ Connect for collaboration, opportunities, or security discussions:
 
 ---
 
-## 🧭 Professional Profile Tagline
-
-Cybersecurity professional focused on SOC operations, incident response, IAM/PAM, cloud security, and security automation — building practical skills for modern defense teams.
-
----
-
-## 🌐 Recruiter-Friendly Summary
-
-I bring a security-first mindset, analytical thinking, and hands-on interest in real-world defense operations. My goal is to contribute to teams focused on SOC excellence, threat detection, cloud security, and secure identity operations.
-
----
-
 <div align="center">
 
-⭐ Interested in building practical security solutions and contributing to resilient security teams.
+⭐ Building practical security skills for modern defense teams.
 
 </div>
